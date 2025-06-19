@@ -52,8 +52,13 @@ Implemented and evaluated the following models:
 
 ## 🗂️ Project Structure
  House-Price-Prediction
+ 
 ├── Project_4_House_Price_Prediction.ipynb
+
 ├── data/
+
 │ └── housing.csv (or similar)
+
 ├── requirements.txt
+
 ├── README.md
