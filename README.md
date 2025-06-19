@@ -49,6 +49,9 @@ House pricing is influenced by multiple factors — size, location, condition, e
 
 ## 🗂️ Project Structure
 📦 House-Price-Prediction
+
 ├── House_Price_Prediction.ipynb
+
 ├── requirements.txt
+
 ├── README.md
